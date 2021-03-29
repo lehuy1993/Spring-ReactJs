@@ -1,6 +1,7 @@
 # Spring-ReactJs Mini Project 
 <img width="933" alt="ReactJS + Spring Boot CRUD" src="https://user-images.githubusercontent.com/28465241/112811405-3dc19600-90a6-11eb-9943-a50d93b923b7.png">
 # Spring boot-backend (server) – To develop REST API</br>
+
 ## Technologies used
 * Spring Boot 2 +</br>
 * SpringData JPA ( Hibernate)</br>
